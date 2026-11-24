@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex"><title>Admin</title>
+<link href="https://fonts.googleapis.com/css2?family=Sora:wght@400;600;800&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="/css/style.css"></head>
+<body><header class="site-header"><div class="wrap"><a class="logo" href="/">Admin</a><a class="nav" style="color:#fff" href="/">View website</a></div></header>
+<section><div class="wrap">
+<div class="panel" id="login"><h2>Login</h2>
+<form id="login-form"><label for="password">Password</label><input id="password" type="password" required>
+<button class="btn" type="submit">Login</button><p class="msg" id="login-msg"></p></form></div>
+<div id="panel" hidden>
+<div class="panel"><h2>Add product</h2>
+<form id="add-form">
+<label for="category">Category</label>
+<select id="category" name="category" required>
+<option value="iphone">iPhone</option><option value="samsung">Samsung</option><option value="redmi">Redmi</option>
+<option value="tecno">Tecno / Infinix / Itel</option><option value="computer">Computer</option>
+<option value="accessories">Phone accessories</option></select>
+<label for="name">Name</label><input id="name" name="name" required placeholder="iPhone 13 Pro 128GB">
+<label for="price">Price (₦)</label><input id="price" name="price" type="number" min="0" required>
+<label for="description">Description</label><textarea id="description" name="description" rows="3" placeholder="Condition, storage, colour..."></textarea>
+</div>
+
+<div style="margin:15px 0; padding:12px; background:#ffeaea; border:1px dashed red; border-radius:8px;">
+  <label style="display:flex; align-items:center; gap:8px; cursor:pointer;">
+    <input type="checkbox" id="isSold" name="is_sold" value="1" style="width:22px; height:22px;">
+    <span style="color:red; font-weight:bold; font-size:16px;"> ✅ An Siyar - Sanya ONETALK SOLD OUT Stamp</span>
+  </label>
+</div>
+
+<div>
+  <label>Photo</label>
+<label for="image">Photo</label><input id="image" name="image" type="file" accept="image/*" required>
+<button class="btn" type="submit">Save product</button><p class="msg" id="add-msg"></p>
+</form></div>
+<h2>Your products</h2><div id="list"></div>
+</div></div></section>
+<script src="/js/admin.js"></script></body></html>

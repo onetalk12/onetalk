@@ -1,0 +1,626 @@
+[
+  {
+    "id": "26dc52be-f778-444b-86d4-10bf48f369b7",
+    "category": "iphone",
+    "name": "Iphone 14",
+    "price": 500000,
+    "description": "Iphone 14nml diffrent color non display 128GB 256GB & 512GB",
+    "image": "/uploads/1791833069513-15dfff29.jpg",
+    "createdAt": "2026-10-12T19:24:29.523Z"
+  },
+  {
+    "id": "ac5618ed-7b1d-4f95-a9a4-c177ceeaf17e",
+    "category": "iphone",
+    "name": "Iphone 13",
+    "price": 300000,
+    "description": "iphone 13nml with original screen their is display and nan 128GB & 256GB Availablle",
+    "image": "/uploads/1791834087747-d6f080f1.jpg",
+    "createdAt": "2026-10-12T19:41:27.756Z"
+  },
+  {
+    "id": "ec2dddc7-dd63-4acc-ab88-89b6e94d9691",
+    "category": "redmi",
+    "name": "REDMI 15C",
+    "price": 135000,
+    "description": "Redmi 15C 128GB 6GB RAM super clean kwasha-kwasha",
+    "image": "/uploads/1791893332794-bdb9ba76.jpg",
+    "createdAt": "2026-10-13T12:08:52.812Z"
+  },
+  {
+    "id": "942af826-ed4c-460a-b6b5-cbb8b26924e9",
+    "category": "redmi",
+    "name": "REDMI 14C",
+    "price": 100000,
+    "description": "Redmi 14C black color 128GB 6GB RAM kwasha-kwasha",
+    "image": "/uploads/1791893500650-3b75a455.jpg",
+    "createdAt": "2026-10-13T12:11:40.657Z"
+  },
+  {
+    "id": "13cdd014-76be-4b21-a463-50dc11a8a068",
+    "category": "samsung",
+    "name": "SAMSUNG A13",
+    "price": 75000,
+    "description": "Samsung S20+ original screen no shadow 128GB & 64GB  Ragon malan ce ga kyau ga sauki",
+    "image": "/uploads/1791894538632-b763274e.jpg",
+    "createdAt": "2026-10-13T12:28:58.669Z"
+  },
+  {
+    "id": "d3be0fbc-9105-42bd-a589-663c40ade983",
+    "category": "samsung",
+    "name": "SAMSUNG A06",
+    "price": 95000,
+    "description": "Samsung A06 original NIgerian warrenty 128GB Super clean",
+    "image": "/uploads/1791894634460-b78cb49f.jpg",
+    "createdAt": "2026-10-13T12:30:34.469Z"
+  },
+  {
+    "id": "b359ccc3-cb17-424b-89d4-b0a30d97c667",
+    "category": "samsung",
+    "name": "SAMSUNG S20+",
+    "price": 190000,
+    "description": "Samsung S20+ 128GB with original screen no shadow super clean",
+    "image": "/uploads/1791894726107-55d8c11b.jpg",
+    "createdAt": "2026-10-13T12:32:06.113Z"
+  },
+  {
+    "id": "37c5cd48-5265-4204-b768-7528c7c41eff",
+    "category": "samsung",
+    "name": "SAMSUNG A24",
+    "price": 130000,
+    "description": "Samsung A24 128GB 6GB RAM 5000mAh black color kwasha-kwasha",
+    "image": "/uploads/1791894868077-da40caad.jpg",
+    "createdAt": "2026-10-13T12:34:28.090Z"
+  },
+  {
+    "id": "04323fdf-cf78-4920-b9c8-e215a3533783",
+    "category": "samsung",
+    "name": "SAMSUNG A14",
+    "price": 90000,
+    "description": "Samsung A14 128GB 6GB RAM 5000mAh battery Nigerian warranty",
+    "image": "/uploads/1791895011152-3931c45a.jpg",
+    "createdAt": "2026-10-13T12:36:51.162Z"
+  },
+  {
+    "id": "15fd9b11-6d28-4a3f-a4f2-01966594b830",
+    "category": "tecno",
+    "name": "INFINX Hot 40i",
+    "price": 100000,
+    "description": "Infinix hot 40i clean 128GB 6GB RAM 5000mAh battery",
+    "image": "/uploads/1791895129874-eb3f4cbf.jpg",
+    "createdAt": "2026-10-13T12:38:49.878Z"
+  },
+  {
+    "id": "135bbbf4-d477-4153-a2f4-e43fa58563b0",
+    "category": "iphone",
+    "name": "Iphone 11",
+    "price": 180000,
+    "description": "Iphone 11 128GB & 64GB battery message are available with original screen",
+    "image": "/uploads/1791895257891-7ac98017.jpg",
+    "createdAt": "2026-10-13T12:40:57.896Z"
+  },
+  {
+    "id": "6a671f94-bfd1-4b2f-b19b-f62cb922a060",
+    "category": "iphone",
+    "name": "Iphone 12",
+    "price": 230000,
+    "description": "Iphone 12nml DM & BM  64GB, 128GB, & 256GB super clean",
+    "image": "/uploads/1791895729034-a6e74124.jpg",
+    "createdAt": "2026-10-13T12:48:49.042Z"
+  },
+  {
+    "id": "c2930526-351c-486b-ab21-88192bf4ed8b",
+    "category": "iphone",
+    "name": "Iphone 11pro max",
+    "price": 250000,
+    "description": "Iphone 11pro max BM super clean",
+    "image": "/uploads/1791895811849-12475159.jpg",
+    "createdAt": "2026-10-13T12:50:11.854Z"
+  },
+  {
+    "id": "1a778769-3bbd-4c46-9d14-b5d52aae1053",
+    "category": "iphone",
+    "name": "Iphone 16",
+    "price": 720000,
+    "description": "Iphone 16nml super clean zero scratch 128GB",
+    "image": "/uploads/1791895935680-45d6a8ce.jpg",
+    "createdAt": "2026-10-13T12:52:15.691Z"
+  },
+  {
+    "id": "07d320cf-25f2-4563-89e1-8d2d82aae3e4",
+    "category": "iphone",
+    "name": "Iphone Xr",
+    "price": 150000,
+    "description": "Iphone Xr super clean 64GB",
+    "image": "/uploads/1791895999293-24b9a0ee.jpg",
+    "createdAt": "2026-10-13T12:53:19.299Z"
+  },
+  {
+    "id": "bdd89e39-221d-406c-afc8-ac7a9633843e",
+    "category": "tecno",
+    "name": "TECNO CAMON 19",
+    "price": 70000,
+    "description": "Tecno camon 19 128GB 5000mAh battery kwasha-kwasha",
+    "image": "/uploads/1791896151124-e031f904.jpg",
+    "createdAt": "2026-10-13T12:55:51.132Z"
+  },
+  {
+    "id": "5ae83b57-2314-4cbb-8dea-3be7e5394826",
+    "category": "tecno",
+    "name": "Infinix Hot 60i",
+    "price": 130000,
+    "description": "Infinix hot 60i 5000mAh battery black color super clean",
+    "image": "/uploads/1791898888736-5e76df53.jpg",
+    "createdAt": "2026-10-13T13:41:28.840Z"
+  },
+  {
+    "id": "c2fc6225-7d23-4eab-9f4d-5d579510281d",
+    "category": "redmi",
+    "name": "REDMI Note 11",
+    "price": 95000,
+    "description": "Redmi note 11 128GB 5000mAh battery kwasha-kwasha",
+    "image": "/uploads/1791899085337-ad18ef1c.jpg",
+    "createdAt": "2026-10-13T13:44:45.363Z"
+  },
+  {
+    "id": "3c0049f7-1af3-4426-8e3d-cdd8e4de456d",
+    "category": "redmi",
+    "name": "Xiaomi Note 11",
+    "price": 750000,
+    "description": "Xiaomi note 11 128GB 5000mAh available",
+    "image": "/uploads/1791899291528-9594218b.jpg",
+    "createdAt": "2026-10-13T13:48:11.553Z"
+  },
+  {
+    "id": "f6249382-1b67-4408-9167-fe66a4d6b3f0",
+    "category": "redmi",
+    "name": "REDMI Note 12",
+    "price": 100000,
+    "description": "Redmi note 12 green & sky blue 128GB 6GB RAM 5000mAh kwasha-kwasha",
+    "image": "/uploads/1791899432075-b0d2b170.jpg",
+    "createdAt": "2026-10-13T13:50:32.116Z"
+  },
+  {
+    "id": "88d8994d-d0ae-4004-88c0-ceb203a8c43b",
+    "category": "tecno",
+    "name": "Infinix Hot 60pro+",
+    "price": 2200000,
+    "description": "infinix hot 60pro+ silver color 128GB 8GB RAM 5160mAh battery super clean koda kudinka seda rabon ka",
+    "image": "/uploads/1791900415998-02b9dfb1.jpg",
+    "createdAt": "2026-10-13T14:06:56.004Z"
+  },
+  {
+    "id": "3b4bb422-b543-4df8-b412-4497b61eb5b3",
+    "category": "computer",
+    "name": "Blackview Tab 12",
+    "price": 80000,
+    "description": "Blackview Tab12 10inch screen 128GB 6GB RAM with good and strong battery super clean",
+    "image": "/uploads/1791900610045-fff9619a.jpg",
+    "createdAt": "2026-10-13T14:10:10.050Z"
+  },
+  {
+    "id": "402909c0-c951-41a8-a5b4-accefcc2423e",
+    "category": "accessories",
+    "name": "KLYSUPER Cable type C",
+    "price": 1500,
+    "description": "Klysuper cable type c super fast charging",
+    "image": "/uploads/1791900701204-df3c7208.jpg",
+    "createdAt": "2026-10-13T14:11:41.215Z"
+  },
+  {
+    "id": "73cd4047-0c43-4124-afa2-403fa3429102",
+    "category": "accessories",
+    "name": "KLYSUPER Iphone cable",
+    "price": 1500,
+    "description": "klysuper iphone cable strong and fast charging",
+    "image": "/uploads/1791900786005-0fc2f14e.jpg",
+    "createdAt": "2026-10-13T14:13:06.018Z"
+  },
+  {
+    "id": "27b2fac5-5507-40c8-8022-f10b63557f7b",
+    "category": "accessories",
+    "name": "KLYSUPER Blackberry",
+    "price": 1500,
+    "description": "klysuper blackberry cable fast and strong",
+    "image": "/uploads/1791900861326-55c2a013.jpg",
+    "createdAt": "2026-10-13T14:14:21.394Z"
+  },
+  {
+    "id": "603fa932-97b6-4d51-beeb-c87b69bbbf61",
+    "category": "accessories",
+    "name": "KLYSUPER Cable C to C & C to iphone",
+    "price": 1500,
+    "description": "klysuper cable C to  C & C to iphone super fast charging",
+    "image": "/uploads/1791900974852-446248c3.jpg",
+    "createdAt": "2026-10-13T14:16:14.928Z"
+  },
+  {
+    "id": "65a7a75d-a5a6-4da3-9e16-d65abba7485c",
+    "category": "accessories",
+    "name": "follow come Cable",
+    "price": 1500,
+    "description": "follow come  Cable both balckberry & type C ORIGINAL",
+    "image": "/uploads/1791901167790-2d92e852.jpg",
+    "createdAt": "2026-10-13T14:19:27.795Z"
+  },
+  {
+    "id": "844fb17a-1f68-46d0-b782-9f063c19881f",
+    "category": "accessories",
+    "name": "Stereo earphone Type C",
+    "price": 3000,
+    "description": "Fsudz Stereo earphone Type C with bluetooth original",
+    "image": "/uploads/1791901310035-6c63a170.jpg",
+    "createdAt": "2026-10-13T14:21:50.045Z"
+  },
+  {
+    "id": "6fab0ccf-2b47-431a-981e-9f01b837a67a",
+    "category": "accessories",
+    "name": "Stereo earphone iphone",
+    "price": 3000,
+    "description": "Fsudz Stereo earphone iphone with bluetooth original",
+    "image": "/uploads/1791901358565-82191dd0.jpg",
+    "createdAt": "2026-10-13T14:22:38.581Z"
+  },
+  {
+    "id": "1b0b5252-a0b1-43a9-a7e2-e2956a2eb9e3",
+    "category": "accessories",
+    "name": "SAMSUNG EARPHONE",
+    "price": 1500,
+    "description": "Samsung original Earphone",
+    "image": "/uploads/1791901420122-048a3d2c.jpg",
+    "createdAt": "2026-10-13T14:23:40.140Z"
+  },
+  {
+    "id": "ae7f7a95-4ac5-4112-b4b0-4c6b76629900",
+    "category": "accessories",
+    "name": "itel",
+    "price": 500,
+    "description": "small price earphone",
+    "image": "/uploads/1791901465181-8920dd99.jpg",
+    "createdAt": "2026-10-13T14:24:25.204Z"
+  },
+  {
+    "id": "3e6c5484-140d-49d5-8fcd-20a39899489d",
+    "category": "accessories",
+    "name": "Pro 5S plus max bluetooth",
+    "price": 5000,
+    "description": "Pro 5S plus max bluetooth original",
+    "image": "/uploads/1791901552072-6a89928b.jpg",
+    "createdAt": "2026-10-13T14:25:52.080Z"
+  },
+  {
+    "id": "b0563389-c5e4-4e5c-b351-491fdb528c9a",
+    "category": "accessories",
+    "name": "BOX EARPHONE",
+    "price": 1000,
+    "description": "Box earphone original available",
+    "image": "/uploads/1791901614020-72eed094.jpg",
+    "createdAt": "2026-10-13T14:26:54.029Z"
+  },
+  {
+    "id": "20d688e9-2387-4e2f-a28e-df9b01ea4ceb",
+    "category": "accessories",
+    "name": "i20 ULTRA MAX SUIT",
+    "price": 12000,
+    "description": "i20 ULTRA MAX SUIT earphones with bluetooth and 5 chians 10  in one",
+    "image": "/uploads/1791901738464-c39b45be.jpg",
+    "createdAt": "2026-10-13T14:28:58.475Z"
+  },
+  {
+    "id": "17601510-eb28-4f55-9341-fa3e886444d6",
+    "category": "accessories",
+    "name": "screen guard",
+    "price": 1000,
+    "description": "privacy screen guard available",
+    "image": "/uploads/1791901796557-750b4a3d.jpg",
+    "createdAt": "2026-10-13T14:29:56.562Z"
+  },
+  {
+    "id": "15467fb6-6ad3-4a8a-87ab-f566391e8841",
+    "category": "accessories",
+    "name": "Iphone 17ro max silicon",
+    "price": 2500,
+    "description": "Iphone 17ro max silicon cover available",
+    "image": "/uploads/1791901929877-9f1bc1bb.jpg",
+    "createdAt": "2026-10-13T14:32:09.922Z"
+  },
+  {
+    "id": "f03378e1-88da-450b-9ed9-a34bbd2e1aac",
+    "category": "accessories",
+    "name": "REDMI 14C",
+    "price": 1500,
+    "description": "REDMI 14C cover available",
+    "image": "/uploads/1791901986700-a4c85994.jpg",
+    "createdAt": "2026-10-13T14:33:06.708Z"
+  },
+  {
+    "id": "d345a945-1d6b-47b6-9483-10d014551472",
+    "category": "accessories",
+    "name": "iphone 11",
+    "price": 3000,
+    "description": "iphone 11 case cover original",
+    "image": "/uploads/1791902052501-0123f3f3.jpg",
+    "createdAt": "2026-10-13T14:34:12.507Z"
+  },
+  {
+    "id": "6d0e7356-5583-4065-b567-167e3f8ec78d",
+    "category": "samsung",
+    "name": "SAMSUNG A12",
+    "price": 75000,
+    "description": "Samsung A12 64GB 4GB RAM 5000mAh clean",
+    "image": "/uploads/1791902117719-9b4cc782.jpg",
+    "createdAt": "2026-10-13T14:35:17.731Z"
+  },
+  {
+    "id": "5aecdab2-4d57-419d-888b-04b5ca31b714",
+    "category": "tecno",
+    "name": "Infinix Smart 8",
+    "price": 70000,
+    "description": "infinx smart 8 64GB 3GB RAM 5000mAh clean",
+    "image": "/uploads/1791902182186-35ead2fe.jpg",
+    "createdAt": "2026-10-13T14:36:22.206Z"
+  },
+  {
+    "id": "279d3593-4441-4927-af10-186e7a2e3f1b",
+    "category": "redmi",
+    "name": "REDMI Note12",
+    "price": 100000,
+    "description": "Redmi note 12 128GB 6GB RAM green & sky blue color 5000mAh super clean",
+    "image": "/uploads/1791902281252-2dc45ae1.jpg",
+    "createdAt": "2026-10-13T14:38:01.258Z"
+  },
+  {
+    "id": "de7f56bc-de9d-47f8-bcea-d7ea8ed1a225",
+    "category": "tecno",
+    "name": "TECNO POP10",
+    "price": 85000,
+    "description": "Tecno pop10 64GB 4GB RAM 5000mAh super clean",
+    "image": "/uploads/1791902363760-f7780828.jpg",
+    "createdAt": "2026-10-13T14:39:23.766Z"
+  },
+  {
+    "id": "154e2e8b-9992-433c-8d95-326a1ddd467f",
+    "category": "accessories",
+    "name": "infinix smart 10  pop 10",
+    "price": 2500,
+    "description": "infinix smart 10  pop 10 cover me mirfi",
+    "image": "/uploads/1791902428229-52addf7c.jpg",
+    "createdAt": "2026-10-13T14:40:28.238Z"
+  },
+  {
+    "id": "89cff2da-b70f-40d9-b3d9-7a2843c0c697",
+    "category": "tecno",
+    "name": "TECNO Spark 10c",
+    "price": 80000,
+    "description": "TECNO Spark 10c 128GB 6GB RAM 5000mAh super clean",
+    "image": "/uploads/1791902504558-b53bdc8e.jpg",
+    "createdAt": "2026-10-13T14:41:44.569Z"
+  },
+  {
+    "id": "ab7dac71-eb77-40e4-9988-35341fefede3",
+    "category": "samsung",
+    "name": "OPPO F19 pro",
+    "price": 85000,
+    "description": "OPPO F19 pro with fingerprint on screen 128GB 8GB Ram",
+    "image": "/uploads/1791902645838-de7f2114.jpg",
+    "createdAt": "2026-10-13T14:44:05.846Z"
+  },
+  {
+    "id": "6a6942a1-3351-4b81-b83b-93ea2ce5ccfc",
+    "category": "tecno",
+    "name": "Tecno Camon 20",
+    "price": 100000,
+    "description": "Tecno camon 20 front cemara is not working 256GB 12GB RAM 5000mAh battery",
+    "image": "/uploads/1791902751552-9bb21422.jpg",
+    "createdAt": "2026-10-13T14:45:51.563Z"
+  },
+  {
+    "id": "3c0715a2-798d-4077-ae40-b76929888d4b",
+    "category": "accessories",
+    "name": "KLYSUPER",
+    "price": 6000,
+    "description": "Kllysuper fast chrger",
+    "image": "/uploads/1791902798840-6aea7345.jpg",
+    "createdAt": "2026-10-13T14:46:38.846Z"
+  },
+  {
+    "id": "5e63311b-75c4-458b-9b69-e20447aaabb1",
+    "category": "samsung",
+    "name": "SAMSUNG S8+",
+    "price": 80000,
+    "description": "Black samsung S8+ with original screen no shadow 128GB",
+    "image": "/uploads/1791902904114-e3db18dd.jpg",
+    "createdAt": "2026-10-13T14:48:24.188Z"
+  },
+  {
+    "id": "fb5533b4-5f4d-4522-87a7-3c61122db7df",
+    "category": "samsung",
+    "name": "OPPO A54",
+    "price": 70000,
+    "description": "OPPO A54 with side finger 128GB 4GB RAM with original screen 5000mAh battery",
+    "image": "/uploads/1791903010204-8149c7e8.jpg",
+    "createdAt": "2026-10-13T14:50:10.275Z"
+  },
+  {
+    "id": "b4121007-5c1f-448b-bf6b-23df1bba12da",
+    "category": "accessories",
+    "name": "Infinix smart 8",
+    "price": 2500,
+    "description": "infinx smart 8 cover me mirfi",
+    "image": "/uploads/1791903061348-eaa236e5.jpg",
+    "createdAt": "2026-10-13T14:51:01.357Z"
+  },
+  {
+    "id": "09d3bdb7-17e0-4629-8696-b0a8d56abeff",
+    "category": "redmi",
+    "name": "REDMI 9pro",
+    "price": 70000,
+    "description": "Redmi 9pro baya ya fashe 128GB 6GB RAM",
+    "image": "/uploads/1791903137156-f8ade955.jpg",
+    "createdAt": "2026-10-13T14:52:17.161Z"
+  },
+  {
+    "id": "0d9082e0-2b0e-4768-b184-80626c856de6",
+    "category": "accessories",
+    "name": "smart10",
+    "price": 3000,
+    "description": "infinx smart10 slicon cover black color",
+    "image": "/uploads/1791903185699-6632a6b5.jpg",
+    "createdAt": "2026-10-13T14:53:05.708Z"
+  },
+  {
+    "id": "2c470b48-0924-471b-ac58-86b324f3b458",
+    "category": "samsung",
+    "name": "SAMSUNG A16",
+    "price": 120000,
+    "description": "Samsung A16 128GB 6GB RAM 5000mAh battery",
+    "image": "/uploads/1791903242964-a964bb98.jpg",
+    "createdAt": "2026-10-13T14:54:02.978Z"
+  },
+  {
+    "id": "c5300a28-3b93-4c86-80f2-0d9a228e6b05",
+    "category": "tecno",
+    "name": "Infinix Hot 30i",
+    "price": 70000,
+    "description": "infinix hot 30i 128GB 6GB RAM Black color",
+    "image": "/uploads/1791903313431-62dd0de1.jpg",
+    "createdAt": "2026-10-13T14:55:13.445Z"
+  },
+  {
+    "id": "893a13a8-405e-47b4-b0ac-e3eee8c102c2",
+    "category": "tecno",
+    "name": "Infinix ZERO X",
+    "price": 90000,
+    "description": "Infinix zero X black color 3500mAh battery 128GB 8GB RAM",
+    "image": "/uploads/1791903410792-d39a69dc.jpg",
+    "createdAt": "2026-10-13T14:56:50.804Z"
+  },
+  {
+    "id": "9cd9f8a7-aaf7-44be-be35-2dd44d454da8",
+    "category": "redmi",
+    "name": "REDMI 9A",
+    "price": 60000,
+    "description": "Redmi 9A baya ya fashe 128GB 4GB RAM",
+    "image": "/uploads/1791903470525-600de924.jpg",
+    "createdAt": "2026-10-13T14:57:50.531Z"
+  },
+  {
+    "id": "9e23a8d6-089f-40d9-b379-06ddb5fdd594",
+    "category": "samsung",
+    "name": "SAMSUNG A24",
+    "price": 120000,
+    "description": "",
+    "image": "/uploads/1791903787239-ffd46e9a.jpg",
+    "createdAt": "2026-10-13T15:03:07.479Z"
+  },
+  {
+    "id": "2de16917-0946-4a43-b7af-cb4b80089976",
+    "category": "accessories",
+    "name": "hot 8",
+    "price": 1000,
+    "description": "privacy screen guard",
+    "image": "/uploads/1791904013373-72a72180.jpg",
+    "createdAt": "2026-10-13T15:06:53.387Z"
+  },
+  {
+    "id": "c8c0938b-bf71-45f5-ab2a-f8fa3530da99",
+    "category": "redmi",
+    "name": "REDMI A7",
+    "price": 90000,
+    "description": "REDMI A7 64GB 4GB RAM 5000mAh white color",
+    "image": "/uploads/1792577131842-11cd9942.jpg",
+    "createdAt": "2026-10-21T10:05:31.907Z",
+    "soldOut": true
+  },
+  {
+    "id": "f1e80d7b-6778-4510-8406-764965097df9",
+    "category": "samsung",
+    "name": "SAMSUNG S26 Ultra",
+    "price": 750000,
+    "description": "SAMSUNG S26 ULTRA 1TB 16GB RAM original one available",
+    "image": "/uploads/1792577253863-56a86257.jpg",
+    "createdAt": "2026-10-21T10:07:33.870Z",
+    "soldOut": true
+  },
+  {
+    "id": "dc8372f7-71e3-4a32-96be-c2452ecef60c",
+    "category": "redmi",
+    "name": "REDMI NOTE 11Pro",
+    "price": 140000,
+    "description": "REDMI NOTE 11pro 256GB 8GB RAM 5000mAh battery super clean available",
+    "image": "/uploads/1792577373039-d927d6df.jpg",
+    "createdAt": "2026-10-21T10:09:33.101Z"
+  },
+  {
+    "id": "50c7b4ee-31b8-4758-9ac6-7e4a5dd7a699",
+    "category": "tecno",
+    "name": "INFINIX NOTE 40",
+    "price": 120000,
+    "description": "Infinix  note 40 256GB 8GB RAM 5000mAh battery black color",
+    "image": "/uploads/1792577470906-0a561978.jpg",
+    "createdAt": "2026-10-21T10:11:10.964Z"
+  },
+  {
+    "id": "ac4ed463-85cf-494e-a7fb-323c1cb2628e",
+    "category": "computer",
+    "name": "HMD",
+    "price": 75000,
+    "description": "HMD 5000mAh battery 128GB 6GB RAM",
+    "image": "/uploads/1792577530934-52310a38.jpg",
+    "createdAt": "2026-10-21T10:12:10.940Z"
+  },
+  {
+    "id": "f27bea2a-99f2-475f-b9b5-481501c2410e",
+    "category": "samsung",
+    "name": "SAMSUNG S22 ULTRA",
+    "price": 250000,
+    "description": "SAMSUNG S22 Ultra 128GB 8GB RAM black color original screen",
+    "image": "/uploads/1792577630144-80b8e074.jpg",
+    "createdAt": "2026-10-21T10:13:50.187Z"
+  },
+  {
+    "id": "92eabf5d-5664-43a3-afb4-85040a0a035f",
+    "category": "tecno",
+    "name": "Infinix Smart 8",
+    "price": 75000,
+    "description": "Infinix smart 8 64GB 3GB RAM 5000mAh battery black color super clean",
+    "image": "/uploads/1792577711115-b6ccffb4.jpg",
+    "createdAt": "2026-10-21T10:15:11.122Z"
+  },
+  {
+    "id": "f1f81dfd-7128-425f-9bbd-7fd8a43c46f1",
+    "category": "tecno",
+    "name": "TECNO POP20",
+    "price": 125000,
+    "description": "Tecno pop20 128GB 6GB RAM 5000mAh battery super clean with caton",
+    "image": "/uploads/1792577784961-f9a22705.jpg",
+    "createdAt": "2026-10-21T10:16:24.981Z"
+  },
+  {
+    "id": "4e8babbf-59d6-4b63-8d87-954cfa462f50",
+    "category": "tecno",
+    "name": "Infinix Hot 50i",
+    "price": 90000,
+    "description": "Infinix Hot 50i 128GB 6GB RAM 5000mAh super clean",
+    "image": "/uploads/1792577841495-b11678ed.jpg",
+    "createdAt": "2026-10-21T10:17:21.525Z"
+  },
+  {
+    "id": "2519c315-d78e-4f5f-9637-4b34af50ff6b",
+    "category": "tecno",
+    "name": "TECNO POP20",
+    "price": 125000,
+    "description": "Tecno pop20 128GB 6GB RAM 5000mAh battery original with caton superclean A",
+    "image": "/uploads/1792578008548-67276c73.jpg",
+    "createdAt": "2026-10-21T10:20:08.560Z"
+  },
+  {
+    "id": "76c719ef-5da3-4969-b51a-c5ef0763b09b",
+    "category": "tecno",
+    "name": "TECNO POP20",
+    "price": 125000,
+    "description": "Tecno pop20 128GB 6GB RAM 5000mAh battery original with caton superclean A",
+    "image": "/uploads/1792578047133-b1602914.jpg",
+    "createdAt": "2026-10-21T10:20:47.144Z",
+    "soldOut": false
+  }
+]
